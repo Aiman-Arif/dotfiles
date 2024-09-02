@@ -1,2 +1,2 @@
-# dot-files
+# My dot files for linux desktop
  

@@ -10,7 +10,7 @@
 {
   "base_keymap": "VSCode",
   "theme": "Gruvbox Dark Soft",
-  "ui_font_size": 14,
+  "ui_font_size": 16,
   "buffer_font_size": 16,
   // NOTE: Change the font family to your preference
   "buffer_font_family": "CaskaydiaCove Nerd Font",

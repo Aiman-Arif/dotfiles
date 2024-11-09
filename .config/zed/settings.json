@@ -9,9 +9,14 @@
 // from the command palette or from `Zed` application menu.
 {
   "base_keymap": "VSCode",
-  "theme": "Gruvbox Dark Soft",
+  "theme": "Rosé Pine Moon",
   "ui_font_size": 16,
   "buffer_font_size": 16,
+  "autosave": {
+    "after_delay": {
+      "milliseconds": 1000
+    }
+  },
   // NOTE: Change the font family to your preference
   "buffer_font_family": "CaskaydiaCove Nerd Font",
   // use relative line numbers

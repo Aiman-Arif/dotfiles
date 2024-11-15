@@ -1,4 +1,4 @@
-// settings.json, generated at Wed Sep 04 2024 20:28:56 GMT+0800 (Singapore Standard Time)
+
 // Zed settings
 //
 // For information on how to configure Zed, see the Zed
@@ -9,7 +9,7 @@
 // from the command palette or from `Zed` application menu.
 {
   "base_keymap": "VSCode",
-  "theme": "Rosé Pine Moon",
+  "theme": "Catppuccin Mocha (pink)",
   "ui_font_size": 16,
   "buffer_font_size": 16,
   "autosave": {
@@ -20,7 +20,7 @@
   // NOTE: Change the font family to your preference
   "buffer_font_family": "CaskaydiaCove Nerd Font",
   // use relative line numbers
-  "relative_line_numbers": true,
+  "relative_line_numbers": false,
   "tab_bar": {
     "show": true
   },
